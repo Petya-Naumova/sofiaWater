@@ -1,0 +1,8 @@
+C:\Users\petia\Documents\sofiaWater\sofiaWater\sofiaWater\bin\Debug\sofiaWater.exe.config
+C:\Users\petia\Documents\sofiaWater\sofiaWater\sofiaWater\bin\Debug\sofiaWater.exe
+C:\Users\petia\Documents\sofiaWater\sofiaWater\sofiaWater\bin\Debug\sofiaWater.pdb
+C:\Users\petia\Documents\sofiaWater\sofiaWater\sofiaWater\obj\Debug\sofiaWater.Form1.resources
+C:\Users\petia\Documents\sofiaWater\sofiaWater\sofiaWater\obj\Debug\sofiaWater.Properties.Resources.resources
+C:\Users\petia\Documents\sofiaWater\sofiaWater\sofiaWater\obj\Debug\sofiaWater.csproj.GenerateResource.Cache
+C:\Users\petia\Documents\sofiaWater\sofiaWater\sofiaWater\obj\Debug\sofiaWater.exe
+C:\Users\petia\Documents\sofiaWater\sofiaWater\sofiaWater\obj\Debug\sofiaWater.pdb
